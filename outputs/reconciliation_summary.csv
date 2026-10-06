@@ -1,0 +1,8 @@
+metric,value
+valid_parsed_transactions,94902
+transactions_with_exchange_rate,94902
+transactions_without_exchange_rate,0
+transactions_matched_to_latest_active_user,53899
+transactions_without_latest_active_user_match,41003
+final_reconciled_rows,94902
+duplicate_final_rows,0

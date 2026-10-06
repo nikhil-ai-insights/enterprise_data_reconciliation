@@ -1,0 +1,9 @@
+check,result
+active_user_id_unique,True
+exchange_rate_missing_after_ffill,0
+final_missing_date,0
+final_missing_user_id,0
+final_missing_product_id,0
+final_missing_euro_value,0
+final_missing_usd_revenue,0
+final_duplicate_rows,0

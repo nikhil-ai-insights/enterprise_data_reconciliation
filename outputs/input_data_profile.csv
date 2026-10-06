@@ -1,0 +1,12 @@
+source,metric,value
+enterprise_database.db,rows,47464
+enterprise_database.db,unique_users,25000
+enterprise_database.db,latest_active_users,14183
+daily_exchange_rates.csv,rows,365
+daily_exchange_rates.csv,missing_EUR_to_USD_before_ffill,104
+daily_exchange_rates.csv,missing_EUR_to_USD_after_ffill,0
+server_logs.txt,raw_transaction_records,100000
+server_logs.txt,error_records_filtered,5098
+server_logs.txt,valid_transactions,94902
+server_logs.txt,unparseable_non_error_records,0
+server_logs.txt,parse_time_seconds,0.7193

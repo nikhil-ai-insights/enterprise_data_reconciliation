@@ -1,0 +1,6 @@
+metric,value
+raw_log_rows,100000
+error_rows_filtered,5098
+non_error_rows,94902
+fully_parsed_valid_transactions,94902
+non_error_unparseable_or_invalid_rows,0
